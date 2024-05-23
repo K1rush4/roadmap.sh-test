@@ -5,7 +5,7 @@ function App() {
     return (
         <>
             <div>
-                changed code
+                ok. this code changed on master
             </div>
         </>
     );
