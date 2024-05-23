@@ -5,10 +5,8 @@ function App() {
     return (
         <>
             <div>
-                delete all but new div
+                I do new code in master
             </div>
-            <div>some new code here</div>
-            <div>some new code here again</div>
         </>
     );
 }
