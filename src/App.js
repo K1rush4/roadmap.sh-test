@@ -5,8 +5,7 @@ function App() {
     return (
         <>
             <div>
-                first
-                <p id="result"></p>
+                delete all but new div
             </div>
             <div>some new code here</div>
             <div>some new code here again</div>
