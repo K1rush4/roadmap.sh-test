@@ -5,8 +5,7 @@ function App() {
     return (
         <>
             <div>
-                first
-                <p id="result"></p>
+                I do new code in master
             </div>
             <div>some new code here</div>
             <div>some new code here again</div>
