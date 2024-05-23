@@ -7,7 +7,7 @@ function App() {
             <div>
                 changed code
             </div>
-            <div>now I will try rebase branch</div>
+            <div>this code changed on branch1</div>
         </>
     );
 }
