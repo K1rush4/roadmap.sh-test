@@ -9,6 +9,7 @@ function App() {
                 <p id="result"></p>
             </div>
             <div>some new code here</div>
+            <div>some new code here again</div>
         </>
     );
 }
