@@ -5,7 +5,7 @@ function App() {
     return (
         <>
             <div>
-                I do new code in master
+                changed code
             </div>
             <div>now I will try rebase branch</div>
         </>
